@@ -18,5 +18,7 @@ del
 static/prod.*
 Config/client_session_key.aes
 
+backups/
+
 # Ignore locally checked out IHP version
 IHP
